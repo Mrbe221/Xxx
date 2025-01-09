@@ -1,0 +1,14 @@
+{
+  "name": "facebook-group-name-lock",
+  "version": "1.0.0",
+  "description": "A script to lock Facebook group name using Puppeteer.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  }
+}
